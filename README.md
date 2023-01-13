@@ -1,9 +1,9 @@
-# <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey there, nice to see you :)<br>
+## <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey there, nice to see you :)<br>
 
-### Welcome to my page. I'm Chris, a Shopify Web Developer from <img src="./united-states.png" width="20"> US currently living in <img src="./georgia.png" width="20"> Tbilisi, Georgia.
+#### Welcome to my page. I'm Chris, a Shopify Web Developer from <img src="./united-states.png" width="20"> US currently living in <img src="./georgia.png" width="20"> Tbilisi, Georgia.
 
 
-## 🛠️ Languages and Tools:
+#### 🛠️ Languages and Tools:
 
 <div style="display:flex;align-items:center">
 
@@ -33,6 +33,6 @@
  > 
 
 
-## 📫 Contact me:
+### 📫 Contact me:
 [![Email Badge](https://img.shields.io/badge/-mail@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:mail@gmail.com)](mailto:chris@chrishughs.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-mylinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/in/chrishughsprofile/)
