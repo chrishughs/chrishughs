@@ -1,6 +1,6 @@
 ## <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey there, nice to see you :)<br>
 
-### Welcome to my page. I'm Chris, a Shopify Web Developer from <img src="./united-states.png" width="20"> US currently living in <img src="./georgia.png" width="20"> Tbilisi, Georgia.
+### Welcome to my page. I'm Chris, a Shopify Web Developer from <img src="./united-states.png" width="20"> US currently living in <img src="./california.png" width="20"> California.
 
 
 #### 🛠️ Languages and Tools:
